@@ -1,0 +1,119 @@
+#nut:hover {
+  background-color: cadetblue;
+}
+#nut:active {
+  background-color: blue;
+}
+#nut {
+  color: red;
+  background-color: aquamarine;
+  height: 40px;
+}
+tr {
+  text-align: center;
+}
+table {
+  background-color: antiquewhite;
+}
+body {
+  background-image: url(https://gcs.tripi.vn/public-tripi/tripi-feed/img/474108Som/background-pokemon-don-gian-cuc-dep_025141106.jpg);
+  background-size: 8000px;
+  padding: 6%;
+  border: 3px solid burlywood;
+  border-radius: 30px;
+  margin: 20px;
+}
+body input:checked ~ img {
+  display: none;
+}
+.box {
+  height: 300px;
+  width: 300px;
+  background-color: blueviolet;
+}
+.box1 {
+  border: 40px solid red;
+  background-color: #ddd;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+.pokee:link {
+  color: aqua;
+}
+.pokee:visited {
+  color: red;
+}
+.poke:link {
+  color: black;
+}
+.poke:visited {
+  color: red;
+}
+.yt:link {
+  color: black;
+}
+.yt:visited {
+  color: red;
+}
+.anhgame {
+  margin-left: 120px;
+}
+.anh1 {
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+.anh2 {
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+.anh3 {
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+.anh4 {
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+.vd img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-right: -70px;
+  border: 6px solid red;
+}
+.vd:first-child {
+  margin-left: -100;
+}
+.vd {
+  margin-left: 200px;
+}
+.anh1 {
+  border: 5px solid red;
+}
+.anh2 {
+  border: 5px solid red;
+}
+.anh3 {
+  border: 5px solid red;
+}
+.anh4 {
+  border: 5px solid red;
+}
+.mss {
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+}
+.vd {
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+}
+.tab {
+  margin-left: 80px;
+}
+.c {
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+}
